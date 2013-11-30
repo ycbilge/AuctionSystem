@@ -1,0 +1,2 @@
+SELECT * from TBL_USERS;
+SELECT * from TBL_USERS_TEMP;

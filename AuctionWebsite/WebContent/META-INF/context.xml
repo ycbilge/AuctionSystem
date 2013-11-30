@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context debug="1" reloadable="true" crossContext="true">
+  <Resource name="jdbc/cs9321" auth="Container"
+          type="javax.sql.DataSource" username="yunus" password="123"
+          driverClassName="org.apache.derby.jdbc.ClientDriver" 
+          url="jdbc:derby://localhost:1527/AuctionWebsiteDB"
+          maxActive="8" maxIdle="4"/>
+</Context>
